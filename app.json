@@ -1,0 +1,33 @@
+{
+  "id": "ef55084e-6cba-4c3e-be07-1d671f7ec2e9",
+  "name": "ALBCDEMO",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    
+{
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

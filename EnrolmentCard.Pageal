@@ -1,0 +1,21 @@
+page 50105 "Enrollment Card"
+{
+    PageType = Card;
+    SourceTable = "Enrollment";
+    ApplicationArea = All;
+    UsageCategory = Cards;
+
+    layout
+    {
+        area(content)
+        {
+            group("Enrollment Info")
+            {
+                field("Enrollment ID"; "Enrollment ID") { }
+                field("Student ID"; "Student ID") { }
+                field("Course ID"; "Course ID") { }
+                field("Enrollment Date"; "Enrollment Date") { }
+            }
+        }
+    }
+}
